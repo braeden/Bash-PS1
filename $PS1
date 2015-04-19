@@ -1,1 +1,3 @@
-\[\e[00;37m\]\w : \$\[\e[0m\]\[\e[01;37m\]>\[\e[0m\]\[\e[00;37m\] \[\e[0m\]
+Laptop: \[\e[00;37m\]\w : \$\[\e[0m\]\[\e[01;37m\]>\[\e[0m\]\[\e[00;37m\] \[\e[0m\]
+Rasp Pi: \[\e]0;\u@\h: \w\a\]${debian_chroot:+($debian_chroot)}\[\033[01;32m\]\u@\h\[\033[00m\] \[\033[01;34m\]\w \$\[\033[00m\]
+Desktop: \[\e]0;\u@\h: \w\a\]${debian_chroot:+($debian_chroot)}\u@\h:\w\$
